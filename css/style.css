@@ -101,6 +101,10 @@ footer .go-up i{
     height: 50px;
     color: #fff;
 }
+footer .go-up i:hover{
+    background: #232f3edb;
+    cursor: pointer;
+}
 
 @media (max-width:576px) {
     /* #product .top-links{
