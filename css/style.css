@@ -100,7 +100,7 @@
     }
     #product .row .left .img-all img{
         width: 44px !important;
-        border: 1px solid rgba(0, 0, 0, 0.386);
+        border: 1px solid rgba(0, 0, 0, 0.386) !important;
     }
    
 }
