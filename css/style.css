@@ -82,11 +82,22 @@
     font-size: 14px;
 }
 
-/* @media (max-width:576px) {
-    #product .top-links{
+@media (max-width:576px) {
+    /* #product .top-links{
         position: sticky !important;
         top: 1px;
+        margin: 0 !important;
         padding-bottom: 20px;
         background: #ebe2e2;
+    } */
+    #product .row .left{
+        display: flex !important;
+        flex-direction: column-reverse !important;
     }
-} */
+    #product .row .left .img-all{
+        margin-top: 20px !important;
+    }
+    #product .row .right{
+        padding: 30px !important;
+    }
+}
