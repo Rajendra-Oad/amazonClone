@@ -96,10 +96,11 @@
     }
     #product .row .left .img-all{
         margin-top: 20px !important;
-        border: 1px solid gray;
+       
     }
     #product .row .left .img-all img{
         width: 44px !important;
+        border: 1px solid rgba(0, 0, 0, 0.386);
     }
    
 }
