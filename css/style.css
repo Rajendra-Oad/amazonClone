@@ -130,7 +130,7 @@ footer .go-up i:hover{
 }
 
 @media (min-width:576px){
-    .go-up{
+    footer .go-up{
         display: none;
     }
 }
