@@ -5,6 +5,9 @@
 html{
     scroll-behavior: smooth;
 }
+body{
+    padding: 0 14px 0 0 !important;
+}
 #product .img-1 img{
     width: 50px;
     display: block;
@@ -102,7 +105,7 @@ html{
        
     }
     #product .row .left .img-all img{
-        width: 43.4px !important;
+        width: 42px !important;
         border: 1px solid rgba(0, 0, 0, 0.386) !important;
     }
     footer .go-up{
